@@ -6,3 +6,6 @@ This is to test remote repo
 
 * item 1
 * item 2
+* item 3
+
+**bold**
